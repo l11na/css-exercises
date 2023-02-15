@@ -54,13 +54,7 @@ ul {
   padding: 0;
 }
 
-.left-buttons {
-  display: flex;
-  align-items: center;
-  gap: 16px;
-}
-
-.right-buttons {
+.left-buttons, .right-buttons {
   display: flex;
   align-items: center;
   gap: 16px;
